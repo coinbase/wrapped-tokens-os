@@ -24,7 +24,7 @@
   "devDependencies": {
     "@nomiclabs/hardhat-truffle5": "^2.0.0",
     "@nomiclabs/hardhat-web3": "^2.0.0",
-    "@openzeppelin/contracts": "^3.1.0",
+    "@openzeppelin/contracts": "^4.7.3",
     "@openzeppelin/test-helpers": "^0.5.13",
     "@openzeppelin4.2.0/contracts": "npm:@openzeppelin/contracts@^4.2.0",
     "@truffle/hdwallet-provider": "^1.0.39",
